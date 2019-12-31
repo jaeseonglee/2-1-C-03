@@ -1,0 +1,3 @@
+﻿  square.c
+c:\users\samsung\desktop\c언어 3주차\20165153\projecteight\square.c(25): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ProjectEight.vcxproj -> C:\Users\SAMSUNG\Desktop\C언어 3주차\20165153\Debug\ProjectEight.exe
